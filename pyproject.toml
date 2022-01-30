@@ -6,9 +6,9 @@ authors = ["Jidhu Mohan <jidhumohan.mattummalvalappil@siemens.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+numpy = "^1.22.1"
 
 [tool.poetry.dev-dependencies]
-pytest = "^5.2"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
